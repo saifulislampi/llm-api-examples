@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "prompt": "Generate a Python function to calculate the factorial of a number."
+    },
+    {
+        "id": 2,
+        "prompt": "Write JavaScript code to fetch data from an API and log it to the console."
+    },
+    {
+        "id": 3,
+        "prompt": "Create a SQL query to find the top 10 highest-paid employees in a database."
+    },
+    {
+        "id": 4,
+        "prompt": "Generate HTML and CSS code for a responsive navigation bar."
+    },
+    {
+        "id": 5,
+        "prompt": "Write a C++ program that sorts an array of integers in ascending order using bubble sort."
+    }
+]
+
